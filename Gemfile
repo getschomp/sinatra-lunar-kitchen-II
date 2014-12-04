@@ -10,3 +10,7 @@ group :development, :test do
   gem 'capybara'
   gem 'launchy'
 end
+
+gem 'sinatra-activerecord'
+gem 'pg'
+gem 'rake'
